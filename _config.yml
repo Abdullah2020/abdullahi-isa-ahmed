@@ -39,12 +39,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/aiman2020
   - title: linkedin
     url: https://www.linkedin.com/in/abdullahi-isa-ahmed-a26a0886/
   - title: github
     url: https://github.com/Abdullah2020
+  - title: twitter
+    url: https://twitter.com/aiman2020
 
 # Postal address (add as many lines as necessary)
 address:
